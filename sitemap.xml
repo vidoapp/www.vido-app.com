@@ -13,8 +13,8 @@
 		<priority>
 			0.5
 		</priority>
-		<link rel="alternate" hreflang="en" href="https://www.vido-app.com/en" />
-		<link rel="alternate" hreflang="zh-CN" href="https://www.vido-app.com/zh-CN" />
-		<link rel="alternate" hreflang="zh-TW" href="https://www.vido-app.com/zh-TW" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.vido-app.com/en" />
+		<xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.vido-app.com/zh-CN" />
+		<xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.vido-app.com/zh-TW" />
 	</url>
 </urlset>
