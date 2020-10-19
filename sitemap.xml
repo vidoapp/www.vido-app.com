@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml">
-    <url>
-        <loc>https://www.vido-app.com/</loc>
-        <lastmod>2020-05-14T16:00:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.vido-app.com/en/"/>
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.vido-app.com/zh-CN/"/>
-        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.vido-app.com/zh-TW/"/>
-    </url>
-</urlset>
+<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://www.vido-app.com/en/</loc><lastmod>2020-10-19T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="en" href="https://www.vido-app.com/en/en"/><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.vido-app.com/en/zh-CN"/><xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.vido-app.com/en/zh-TW"/></url><url><loc>https://www.vido-app.com/zh-CN/</loc><lastmod>2020-10-19T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="en" href="https://www.vido-app.com/zh-CN/en"/><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.vido-app.com/zh-CN/zh-CN"/><xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.vido-app.com/zh-CN/zh-TW"/></url><url><loc>https://www.vido-app.com/zh-TW/</loc><lastmod>2020-10-19T00:00:00.000Z</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="en" href="https://www.vido-app.com/zh-TW/en"/><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.vido-app.com/zh-TW/zh-CN"/><xhtml:link rel="alternate" hreflang="zh-TW" href="https://www.vido-app.com/zh-TW/zh-TW"/></url></urlset>
